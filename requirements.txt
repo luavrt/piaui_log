@@ -1,0 +1,8 @@
+requests
+networkx
+matplotlib
+streamlit
+folium
+streamlit-folium
+openpyxl
+reportlab
